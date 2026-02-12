@@ -1,3 +1,4 @@
+# Write a program that takes 5 numbers as input from the user and stores them in a list. Then, find the maximum and minimum numbers in the list and count how many of the numbers are even.
 list1 =[]
 count=0
 for i in range(5):
